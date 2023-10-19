@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ErrorKind","ReadExactError","SeekFrom","WriteFmtError"],"trait":["BufRead","Error","ErrorType","Read","ReadReady","Seek","Write","WriteReady"]};
